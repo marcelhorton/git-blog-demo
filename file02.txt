@@ -1,1 +1,2 @@
 This file is named file02
+Adding more content
